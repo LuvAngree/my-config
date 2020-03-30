@@ -1,6 +1,3 @@
-spring:
-  profiles:
-    active: prod
 # server
 server:
   port: 8080
